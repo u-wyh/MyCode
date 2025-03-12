@@ -1,0 +1,3 @@
+﻿  test.cpp
+C:\Users\wuyuh\Desktop\词频检测\文章词频检测\文章词频检测\test.cpp(131,13): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  文章词频检测.vcxproj -> C:\Users\wuyuh\Desktop\词频检测\文章词频检测\x64\Debug\文章词频检测.exe
